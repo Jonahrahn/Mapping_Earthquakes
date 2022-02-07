@@ -1,2 +1,2 @@
 # Mapping_Earthquakes
-Java Map of Earthquakes
+Javascript Map of Earthquakes
