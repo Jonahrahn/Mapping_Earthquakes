@@ -34,18 +34,6 @@ This repository contains various GeoJSON files and mapping data related to earth
 - **simple_map**
   - *Updates to mapping single point*
 
-- **static**
-  - *Simple map testing*
-
-- **.DS_Store**
-  - *Updated Challenge*
-
-- **.gitignore**
-  - *Updates to mapping single point*
-
-- **README.md**
-  - *Updated README.md*
-
 - **index.html**
   - *Simple map testing* 
 
